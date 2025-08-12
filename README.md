@@ -154,7 +154,7 @@
   <h2>📬 Contact</h2>
   <p>
     For questions, collaborations, or suggestions, feel free to reach out via
-    <a href="mailto:kesavardhan@gmail.com">email</a> or <a href="https://github.com/keshav-077">GitHub</a>.
+    <a href="mailto:ganjipraneeth300@gmail.com">email</a> or <a href="https://github.com/PraneethG05">GitHub</a>.
   </p>
 
 </body>
